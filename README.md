@@ -29,6 +29,6 @@ es_loader.yml
 Run following command to load data into Elasticsearch:
 
 ```bash
-python3 es_loader.py config/es_indices_bento.yml config/es_loader.yml
+python3 es_loader.py config/es_indices.yml config/es_loader.yml
 ``` 
 
