@@ -61,11 +61,14 @@ class ESLoader:
             raise Exception(f'"{file_name} is not a file!')
 
         self.recreate_index(index_name, mapping)
+        successes = 0
         with open(file_name) as file_obj:
             about_file = yaml.safe_load(file_obj)
             for page in about_file:
                 logger.info(f'Indexing static page "{page["page"]}"')
                 self.index_data(index_name, page, f'page{page["page"]}')
+                successes += 1
+        logger.info(f"Indexed {successes} documents")
 
     def index_data(self, index_name, object, id):
         self.es_client.index(index_name, body=object, id=id)
