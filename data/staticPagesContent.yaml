@@ -3,9 +3,9 @@
   content:
     - paragraph: "Discover CCDI Resources"
     - paragraph: "EXPLORE THE CCDI HUB, ITS APPLICATIONS, AND ANALYTIC TOOLS BY SELECTING AN AVAILABLE RESOURCE"
-    - paragraph: "Childhood Cancer Data Catalog April Update, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates."
-    - paragraph: "Molecular characterization results returned to more than 1,000 participants, The CCDI Molecular Characterization Initiative reached 1K children, adolescents, and young adults (AYAs) newly diagnosed with certain types of cancer."
-    - paragraph: "2023 CCDI Symposium, The CCDI Annual Symposium, hosted by NCI on March 24, 2023, brought together over 800 members of the research, clinical, survivor, and family communities."
+    - paragraph: "Childhood Cancer Data Catalog April Update, The Childhood Cancer Data Catalog announced an update which includes 1 new resource, 8 new datasets, and many other updates."
+    - paragraph: "Molecular Characterization Initiative enrolled more than 1,000 participants, The CCDI’s MCI enrolled & returned results for more than 1,000 children & AYAs newly diagnosed with CNS, STS, & rare cancers."
+    - paragraph: "2023 CCDI Symposium, More than 800 people attended the CCDI Annual Symposium, on March 24, 2023 showing their support for childhood cancer research."
     - paragraph: "Childhood Cancer Data Catalog(CCDC): A searchable inventory of childhood cancer resources."
     - paragraph: "Molecular Characterization Initiative for Childhood Cancers(MCI): A program providing molecular testing for children, adolescents, and young adults with certain cancer types."
     - paragraph: "National Childhood Cancer Registry Explorer(NCCR Explorer): A tool to browse demographic, incidence, and survival statistics for cancers in children, adolescent, and young adults."
@@ -22,30 +22,406 @@
   title: "News"
   content:
     - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
-    - paragraph: "Molecular characterization results returned to more than 1,000 participants, APRIL 5, 2023, The CCDI Molecular Characterization Initiative (MCI) achieved a significant milestone in March, enrolling over 1,000 newly diagnosed children, adolescent, and young adults (AYAs) with certain types of cancer. This milestone means that over 1,000 eligible patients now have access to more precise diagnoses, which can aid healthcare providers in planning their treatment."
+    - paragraph: "Molecular Characterization Initiative enrolled more than 1,000 participants, APRIL 5, 2023, The CCDI’s Molecular Characterization Initiative (MCI)  enrolled over 1,000 children, adolescent, and young adults (AYAs) diagnosed with brain, soft tissue sarcomas  and certain types of rare cancers. This increases the accessibility to clinical genomic testing, which can aid healthcare providers to confirm diagnoses and in planning their treatment."
     - paragraph: "2023 CCDI Symposium, APRIL 4, 2023, The Childhood Cancer Data Initiative Annual Symposium, hosted by NCI on March 24, 2023, brought together over 800 members of the research, clinical, survivor, and family communities. The event focused on the potential of enhanced data connection and sharing to address current challenges and opportunities in childhood cancer research."
-    - paragraph: "National Cancer Plan, APRIL 3, 2023, National Cancer Institute (NCI) has released a National Cancer Plan, a long-term, ambitious framework to end cancer as we know it. The Plan represents a coordinated national response to achieve the goals of the Cancer Moonshot and deliver better cancer outcomes to all people."
-- page: '/newsdetail/ccdc'
-  title: "News"
+    - paragraph: "National Cancer Plan, APRIL 3, 2023, National Cancer Institute (NCI) has released a National Cancer Plan, a long-term, ambitious framework to end cancer as we know it. The Plan represents a coordinated national response to achieve the goals of the Cancer Moonshot and deliver better cancer outcomes. The plan offers something for everyone who wants to join in creating a society where more cancers are prevented and every person with cancer lives a full and active life."
+- page: '/fortesting1'
+  title: "Test 1"
   content:
-    - paragraph: "Childhood Cancer Data Catalog April Update, Application Update, April 19, 2023"
-    - paragraph: "The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates."
-    - paragraph: "The National Cancer Institute is pleased to announce an update to the Childhood Cancer Data Catalog website: https://datacatalog.ccdi.cancer.gov/. This update includes the addition of the Xena Browser as a new analytic tool resource.  Xena Browser is an online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables.  Additionally, 7 new datasets have been incorporated into 8 existing resources, with 5 of these coming from The Cancer Imaging Archive (TCIA). Explore the data and site updates in more detail below. Data Updates, New Participating Resource and Dataset, The CCDC has added 1 new analytic tool resource. Xena Browser, Existing Participating Resources and Datasets, 8 existing resources have been updated with additional data and information, including 7 new datasets. Central Brain Tumor Registry of the United States (CBTRUS), New dataset - CBTRUS Fact Sheet 2022, Clinical Interpretation of Variants in Cancer (CIViC), Added case disease diagnosis information, The database of Genotypes and Phenotypes (dbGaP), New dataset - NSD2 E1099K Drives Relapse in Pediatric Acute Lymphoblastic Leukemia by Disrupting 3D Chromatin, The Jackson Laboratory PDX Models, Updated case counts, Kids First Data Resource, Updated case counts and case disease diagnosis information for Pediatric Brain Tumor Atlas’s Children's Brain Tumor Network (CBTN) and Pacific Pediatric Neuro-Oncology Consortium (PNOC) datasets, OncoKB, Added case disease diagnosis information, St. Jude Cloud, New dataset - St. Jude LIFE Hematopoiesis, Removed Sickle Cell Genome Project, Updated case count, case disease diagnosis, and sample count information across multiple datasets, The Cancer Imaging Archive, New dataset - Annotations for Combination Chemotherapy and Radiation Therapy in Treating Young Patients With Newly Diagnosed Hodgkin Lymphoma (AHOD0831-Tumor-Annotations) - TCIA DOIs - Cancer Imaging Archive Wiki; New dataset - Annotations for Combination Chemotherapy and Surgery in Treating Young Patients With Wilms Tumor (AREN0534-Tumor-Annotations) - TCIA DOIs - Cancer Imaging Archive Wiki; New dataset - Annotations for Vincristine, Dactinomycin, and Doxorubicin With or Without Radiation Therapy or Observation Only in Treating Younger Patients Who Are Undergoing Surgery for Newly Diagnosed Stage I; New dataset - Annotations for Combination Chemotherapy With or Without Radiation Therapy in Treating Young Patients With Newly Diagnosed Stage III or Stage IV Wilms Tumor (AREN0533-Tumor-Annotations) - TCIA DOIs; New dataset - Radiation Therapy, Amifostine, and Chemotherapy in Treating Young Patients With Newly Diagnosed Nasopharyngeal Cancer (ARAR0331) - The Cancer Imaging Archive (TCIA) Public Access - Cancer Imaging A, Added Clinical Trial information to multiple datasets, General Site Updates, The Glossary has been updated with new acronyms and abbreviations. The User Guide is updated to reflect new and updated resource information. Search Catalog, Search Catalog exports no longer include errant database characters, Participating Resources, Selecting an email point of contact for resource with multiple identified contacts will now only mail to the selected contact. Selecting a point of contact that links to a website will now open in a new tab and not in an email."
-- page: '/newsdetail/molecular'
-  title: "Molecular characterization results returned to more than 1,000 participants"
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting2'
+  title: "Test 2"
   content:
-    - paragraph: "Molecular characterization results returned to more than 1,000 participants: Application Update, April 5, 2023"
-    - paragraph: "The CCDI Molecular Characterization Initiative reached 1K children, adolescents, and young adults (AYAs) newly diagnosed with certain types of cancer."
-    - paragraph: "The CCDI Molecular Characterization Initiative (MCI) achieved a significant milestone in March, enrollment in the CCDI Molecular Characterization Initiative (MCI) reached 1,000 participants. This milestone means that more than 1,000 children, adolescents, and young adults (AYAs) newly diagnosed with certain types of cancer have a more precise diagnosis with which providers can plan their treatment. Enrollment continues, free of charge, for children and AYAs newly diagnosed with central nervous system tumors, soft tissue sarcomas, and rare tumors who are receiving care from a Children’s Oncology Group–affiliated hospital. MCI data—excluding personal details that identify participants—will continue to be released monthly, giving researchers an opportunity to learn more about what drives various cancers, develop better clinical trials, and develop more effective treatments for childhood cancer."
-- page: '/newsdetail/symposium'
-  title: "2023 CCDI Symposium"
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting3'
+  title: "Test 3"
   content:
-    - paragraph: "2023 CCDI Symposium: News & Other, April 4, 2023"
-    - paragraph: "The CCDI Annual Symposium, hosted by NCI on March 24, 2023, brought together over 800 members of the research, clinical, survivor, and family communities."
-    - paragraph: "On March 24, 2023, NCI hosted the Childhood Cancer Data Initiative Annual Symposium. More than 800 researchers, clinicians, survivors, and families from the community gathered to discuss how enhanced data connection and sharing can address current issues and possibilities in childhood cancer research. On March 24, 2023, NCI hosted the Childhood Cancer Data Initiative Annual Symposium. Researchers, clinicians, survivors, and families from the community gathered to discuss how enhanced data connection and sharing can address current issues and possibilities in childhood cancer research. Dialogue between speakers and attendees, both virtual and in-person, celebrated CCDI's accomplishments to date and identified challenges and priorities that lie ahead.  Highlights included discussion of linking patients to disparate data sets, using tumor genomic data to create precision oncology clinical trials, extracting data from electronic health records, and other topics important for the pediatrics cancer community. View the event presentation and watch the recording: https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/events-webinars/past-symposiums"
-- page: '/newsdetail/national_cancer_plan'
-  title: "National Cancer Plan"
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting4'
+  title: "Test 4"
   content:
-    - paragraph: "National Cancer Plan, News & Other, April 3, 2023"
-    - paragraph: "National Cancer Institute released the National Cancer Plan to engage the broadest possible community to work together to end cancer as we know it."
-    - paragraph: "National Cancer Institute (NCI) has released a National Cancer Plan, a long-term, ambitious framework to end cancer as we know it. The Plan represents a coordinated national response to achieve the goals of the Cancer Moonshot and deliver better cancer outcomes to all people. The development of the National Cancer Plan was made in part due to the contributions of a broad coalition of partners, including the National Cancer Advisory Board, NCI’s Council of Research Advocates and numerous stakeholders across NIH, HHS, the White House Office of Science and Technology Policy, and the Office of the First Lady. The plan offers something for everyone who wants to join in creating a society where more cancers are prevented and every person with cancer lives a full and active life. At its core, the National Cancer Plan features eight goals that build on our current knowledge and describe an ideal future state—essential components to ending cancer as we know it. Prevent Cancer, Detect Cancers Early, Develop Effective Treatments, Eliminate Inequities, Deliver Optimal Care, Engage Every Person, Maximize Data Utility, Optimize the Workforce, Everything at NCI helps to drive progress toward these goals. The National Cancer Plan helps to describe ongoing and emerging initiatives and invites others to do the same.  The better NCI and its partners can identify gaps in cancer prevention, detection, treatment, and care, the better all communities are able to work across society to address them."
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting5'
+  title: "Test 5"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting6'
+  title: "Test 6"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting7'
+  title: "Test 7"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting8'
+  title: "Test 8"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting9'
+  title: "Test 9"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting10'
+  title: "Test 10"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting11'
+  title: "Test 11"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting12'
+  title: "Test 12"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting13'
+  title: "Test 13"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting14'
+  title: "Test 14"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting15'
+  title: "Test 15"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting16'
+  title: "Test 16"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting17'
+  title: "Test 17"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting18'
+  title: "Test 18"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting19'
+  title: "Test 19"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting20'
+  title: "Test 20"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting21'
+  title: "Test 21"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting22'
+  title: "Test 22"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting23'
+  title: "Test 23"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting24'
+  title: "Test 24"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting25'
+  title: "Test 25"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting26'
+  title: "Test 26"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting27'
+  title: "Test 27"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting28'
+  title: "Test 28"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting29'
+  title: "Test 29"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting30'
+  title: "Test 30"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting31'
+  title: "Test 31"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting32'
+  title: "Test 32"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting33'
+  title: "Test 33"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting34'
+  title: "Test 34"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting35'
+  title: "Test 35"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting36'
+  title: "Test 36"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting37'
+  title: "Test 37"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting38'
+  title: "Test 38"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting39'
+  title: "Test 39"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting40'
+  title: "Test 40"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting41'
+  title: "Test 41"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting42'
+  title: "Test 43"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting43'
+  title: "Test 43"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting44'
+  title: "Test 44"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting45'
+  title: "Test 45"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting46'
+  title: "Test 46"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting47'
+  title: "Test 47"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting48'
+  title: "Test 48"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting49'
+  title: "Test 49"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting50'
+  title: "Test 50"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting51'
+  title: "Test 51"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting52'
+  title: "Test 52"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting53'
+  title: "Test 53"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting54'
+  title: "Test 54"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting55'
+  title: "Test 55"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting56'
+  title: "Test 56"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting57'
+  title: "Test 57"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting58'
+  title: "Test 58"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting59'
+  title: "Test 59"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting60'
+  title: "Test 60"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting61'
+  title: "Test 61"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting62'
+  title: "Test 62"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting63'
+  title: "Test 63"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting64'
+  title: "Test 64"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting65'
+  title: "Test 65"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting66'
+  title: "Test 66"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting67'
+  title: "Test 67"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting68'
+  title: "Test 68"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting69'
+  title: "Test 69"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting70'
+  title: "Test 70"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting71'
+  title: "Test 71"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting72'
+  title: "Test 72"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting73'
+  title: "Test 73"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting74'
+  title: "Test 74"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting75'
+  title: "Test 75"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting76'
+  title: "Test 76"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting77'
+  title: "Test 77"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting78'
+  title: "Test 78"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting79'
+  title: "Test 79"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting80'
+  title: "Test 80"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting81'
+  title: "Test 81"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting82'
+  title: "Test 82"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting83'
+  title: "Test 83"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting84'
+  title: "Test 84"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting85'
+  title: "Test 85"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting86'
+  title: "Test 86"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting87'
+  title: "Test 87"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting88'
+  title: "Test 88"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting89'
+  title: "Test 89"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting90'
+  title: "Test 90"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting91'
+  title: "Test 91"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting92'
+  title: "Test 92"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting93'
+  title: "Test 93"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting94'
+  title: "Test 94"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting95'
+  title: "Test 95"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting96'
+  title: "Test 96"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting97'
+  title: "Test 97"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting98'
+  title: "Test 98"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting99'
+  title: "Test 99"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
+- page: '/fortesting100'
+  title: "Test 100"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
