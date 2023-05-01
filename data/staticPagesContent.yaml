@@ -3,9 +3,9 @@
   content:
     - paragraph: "Discover CCDI Resources"
     - paragraph: "EXPLORE THE CCDI HUB, ITS APPLICATIONS, AND ANALYTIC TOOLS BY SELECTING AN AVAILABLE RESOURCE"
-    - paragraph: "Childhood Cancer Data Catalog April Update, The Childhood Cancer Data Catalog announced an update which includes 1 new resource, 8 new datasets, and many other updates."
-    - paragraph: "Molecular Characterization Initiative enrolled more than 1,000 participants, The CCDI’s MCI enrolled & returned results for more than 1,000 children & AYAs newly diagnosed with CNS, STS, & rare cancers."
-    - paragraph: "2023 CCDI Symposium, More than 800 people attended the CCDI Annual Symposium, on March 24, 2023 showing their support for childhood cancer research."
+    - paragraph: "Childhood Cancer Data Catalog April Update: The update includes one new resource, eight new datasets, and many other changes."
+    - paragraph: "Molecular Characterization Initiative releases initial data: Genomics and clinical data for MCI participants is housed in NCI’s Cancer Data Service and accessible through CGC."
+    - paragraph: "CCDI Symposium features Data Ecosystem progress: More than 800 people came together to discuss CCDI progress, including in the Data Ecosystem."
     - paragraph: "Childhood Cancer Data Catalog(CCDC): A searchable inventory of childhood cancer resources."
     - paragraph: "Molecular Characterization Initiative for Childhood Cancers(MCI): A program providing molecular testing for children, adolescents, and young adults with certain cancer types."
     - paragraph: "National Childhood Cancer Registry Explorer(NCCR Explorer): A tool to browse demographic, incidence, and survival statistics for cancers in children, adolescent, and young adults."
@@ -21,10 +21,9 @@
 - page: '/news'
   title: "News"
   content:
-    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce an April update which includes 1 new resource, 8 new datasets, and many other data updates.This update includes the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables, as a new analytic tool resource. Additionally, 7 new datasets have been incorporated into 8 existing resources. Explore the Catalog to check out all the changes."
-    - paragraph: "Molecular Characterization Initiative enrolled more than 1,000 participants, APRIL 5, 2023, The CCDI’s Molecular Characterization Initiative (MCI)  enrolled over 1,000 children, adolescent, and young adults (AYAs) diagnosed with brain, soft tissue sarcomas  and certain types of rare cancers. This increases the accessibility to clinical genomic testing, which can aid healthcare providers to confirm diagnoses and in planning their treatment."
-    - paragraph: "2023 CCDI Symposium, APRIL 4, 2023, The Childhood Cancer Data Initiative Annual Symposium, hosted by NCI on March 24, 2023, brought together over 800 members of the research, clinical, survivor, and family communities. The event focused on the potential of enhanced data connection and sharing to address current challenges and opportunities in childhood cancer research."
-    - paragraph: "National Cancer Plan, APRIL 3, 2023, National Cancer Institute (NCI) has released a National Cancer Plan, a long-term, ambitious framework to end cancer as we know it. The Plan represents a coordinated national response to achieve the goals of the Cancer Moonshot and deliver better cancer outcomes. The plan offers something for everyone who wants to join in creating a society where more cancers are prevented and every person with cancer lives a full and active life."
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables. Also, seven new datasets have been incorporated into eight existing resources. Explore the Catalog to check out all the changes."
+    - paragraph: "Molecular Characterization Initiative releases initial data, APRIL 5, 2023, De-identified molecular characterization data (T/N WES, methylation, and Archer fusion), clinical reports, and demographic and phenotypic data from CCDI Molecular Characterization Initiative participants are released each month under accession number phs00290.v2.p1. The data are accessible through Cancer Genomics Cloud a secure workspace which allow users to upload their own data for aggregated analysis. Access can be requested through dbGaP’s controlled-access process. To date, there are data associated with 1,145 participants."
+    - paragraph: "CCDI Symposium features Data Ecosystem progress, MARCH 24, 2023, NCI hosted the CCDI Symposium on March 24, 2023, which brought together hundreds of members of the childhood cancer community. The event featured presentations on CCDI Data Ecosystem progress by Drs. Anthony Kerlavage and Subhashini Jagu. View the event presentation and watch the recording."
 - page: '/fortesting1'
   title: "Test 1"
   content:
