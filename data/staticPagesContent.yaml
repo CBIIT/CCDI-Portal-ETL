@@ -1,0 +1,26 @@
+- page: '/'
+  title: "CCDI Home"
+  content:
+    - paragraph: "Discover CCDI Resources"
+    - paragraph: "EXPLORE THE CCDI HUB, ITS APPLICATIONS, AND ANALYTIC TOOLS BY SELECTING AN AVAILABLE RESOURCE"
+    - paragraph: "Childhood Cancer Data Catalog April Update: The update includes one new resource, eight new datasets, and many other changes."
+    - paragraph: "Molecular Characterization Initiative releases initial data: Genomics and clinical data for MCI participants is housed in NCI’s Cancer Data Service and accessible through CGC."
+    - paragraph: "CCDI Symposium features Data Ecosystem progress: More than 800 people came together to discuss CCDI progress, including in the Data Ecosystem."
+    - paragraph: "Childhood Cancer Data Catalog(CCDC): A searchable inventory of childhood cancer resources."
+    - paragraph: "Molecular Characterization Initiative for Childhood Cancers(MCI): A program providing molecular testing for children, adolescents, and young adults with certain cancer types."
+    - paragraph: "National Childhood Cancer Registry Explorer(NCCR Explorer): A tool to browse demographic, incidence, and survival statistics for cancers in children, adolescent, and young adults."
+    - paragraph: "Clinical Interpretation of Variants in Cancer(CIViC): An open access, open source, community-driven web resource for clinical interpretations of mutations related to cancer."
+    - paragraph: "Molecular Targets Platform(MTP): An instance of the Open Targets Platform with a focus on childhood cancer data that allows users to browse and identify associations between molecular targets, diseases, and drugs."
+    - paragraph: "Cancer Genomics Cloud(CGC): A cloud-based platform to access and analyze cancer research data."
+    - paragraph: "Database of Genotypes and Phenotypes(dbGaP): A database to store and distribute data and results from studies examining the interaction of genotypes and phenotypes."
+- page: '/about'
+  title: "About"
+  content:
+    - paragraph: "Childhood Cancer Data Initiative Hub: The Childhood Cancer Data Initiative (CCDI) Hub is an entry point for researchers, data scientists, and citizen scientists looking to use and connect with CCDI-related data. It provides information about available tools and applications that support the CCDI vision, along with descriptions of resources, each of which targets specific aspects of childhood cancer research. The Hub also provides direct links to resources and additional technical information. Users are invited to explore the Hub or select a resource’s link to learn more."
+    - paragraph: "Childhood Cancer Data Initiative: The NCI's Childhood Cancer Data Initiative (CCDI) is building a community centered around childhood cancer care and research data. By connecting, analyzing, and easily sharing data among researchers, we can increase our understanding of childhood cancers and improve treatment, quality of life, and survivorship for all children, adolescents, and young adults with cancer."
+- page: '/news'
+  title: "News"
+  content:
+    - paragraph: "Childhood Cancer Data Catalog April Update, APRIL 19, 2023, The Childhood Cancer Data Catalog is pleased to announce the addition of the Xena Browser, a powerful online exploration tool that allows users to investigate functional genomic data sets for correlations between genomic and/or phenotypic variables. Also, seven new datasets have been incorporated into eight existing resources. Explore the Catalog to check out all the changes."
+    - paragraph: "Molecular Characterization Initiative releases initial data, APRIL 5, 2023, De-identified molecular characterization data (T/N WES, methylation, and Archer fusion), clinical reports, and demographic and phenotypic data from CCDI Molecular Characterization Initiative participants are released each month under accession number phs00290.v2.p1. The data are accessible through Cancer Genomics Cloud, a secure workspace that allow users to upload their own data for aggregated analysis. Access can be requested through dbGaP’s controlled-access process. To date, there are data associated with 1,145 participants."
+    - paragraph: "CCDI Symposium features Data Ecosystem progress, MARCH 24, 2023, NCI hosted the CCDI Symposium on March 24, 2023, which brought together hundreds of members of the childhood cancer community. The event featured presentations on CCDI Data Ecosystem progress by Drs. Anthony Kerlavage and Subhashini Jagu. View the event presentation and watch the recording."
