@@ -3,15 +3,14 @@
   content:
     - paragraph: "Discover CCDI Resources"
     - paragraph: "EXPLORE THE CCDI HUB, ITS APPLICATIONS, AND ANALYTIC TOOLS BY SELECTING AN AVAILABLE RESOURCE"
+    - paragraph: "CCDI Hub Explore Dashboard Release: Navigate through detailed pediatric cancer data, create synthetic cohorts, and enable cross-study discoveries with the Hub’s new Explore Dashboard."
     - paragraph: "August Childhood Cancer Data Catalog release goes live: The catalog now includes four new resources, ten new data sets, and a new resource type."
     - paragraph: "Molecular Targets Platform (MTP) release allows interactive data visualizations: New interactive plot displays and updates to the About page are part of the MTP 2.1 release."
-    - paragraph: "Molecular Characterization and Clinical Data from Multiple Organizations Released: Pediatric brain tumor data from several organizations are available pre-publication and without embargo."
     - paragraph: "Childhood Cancer Data Catalog(CCDC): A searchable inventory of childhood cancer resources."
     - paragraph: "Molecular Characterization Initiative for Childhood Cancers(MCI): A program providing molecular testing for children, adolescents, and young adults with certain cancer types."
     - paragraph: "National Childhood Cancer Registry Explorer(NCCR Explorer): A tool to browse demographic, incidence, and survival statistics for cancers in children, adolescent, and young adults."
     - paragraph: "Clinical Interpretation of Variants in Cancer(CIViC): An open access, open source, community-driven web resource for clinical interpretations of mutations related to cancer."
     - paragraph: "Molecular Targets Platform(MTP): An instance of the Open Targets Platform with a focus on childhood cancer data that allows users to browse and identify associations between molecular targets, diseases, and drugs."
-    - paragraph: "Childhood Cancer Data Initiative Data Inventory(CCDI Data Inventory): A searchable catalog of annotated data submissions at the participant-level, serving as primary CCDI data reference."
     - paragraph: "Cancer Genomics Cloud(CGC): A cloud-based platform to access and analyze cancer research data."
     - paragraph: "Database of Genotypes and Phenotypes(dbGaP): A database to store and distribute data and results from studies examining the interaction of genotypes and phenotypes."
 - page: '/about'
@@ -22,6 +21,7 @@
 - page: '/news'
   title: "News"
   content:
+    - paragraph: "CCDI Hub Explore Dashboard Release, October 27, 2023, The CCDI Hub’s Explore Dashboard is a new tool for exploring individual-level participant, sample, and file information for CCDI-managed datasets.  This new tool enables users to explore data in novel ways and establish connections to create synthetic cohorts or cross-study discoveries.  The initial release includes eight studies and information on over 4,100 participants, 10,350 samples, and 132,000 files."
     - paragraph: "August Childhood Cancer Data Catalog release goes live, AUGUST 17, 2023, Users of the Childhood Cancer Data Catalog can now filter by the resource type, “Biorepository.” As part of this resource type, four new resources have been added, including Norwegian Childhood Cancer Biobank, Swedish Childhood Tumor Biobank, The Biopathology Center, and VIVO Biobank. There are also ten additional data sets available and several updates to existing resources."
     - paragraph: "Molecular Targets Platform (MTP) release allows interactive data visualizations, JULY 21, 2023, The Molecular Targets Platform (MTP) is now live with interactive visualizations of data via the Pediatric Data Navigation page. There is also improved plot generation for the OpenPedCan Gene Expression and Differential Expression widgets, along with updated descriptions in the “Pediatric Cancer Data Visualizations” section on the About page regarding the chart types added in the previous MTP release."
     - paragraph: "Molecular Characterization and Clinical Data from Multiple Organizations Released, JULY 20, 2023, CCDI has facilitated the release of data from children and young adults diagnosed with pediatric brain tumors and other solid and hematologic malignancies. The data was collected from the Children’s Brain Tumor Network, the Pacific Pediatric Neuro-Oncology Consortium, and the Children’s Hospital of Philadelphia Division for Genomic Diagnostics. They include tumor and germline WGS, RNA-Seq, Clinical Panel Sequencing, and other omics and molecular data. Access these data through dbGaP."
