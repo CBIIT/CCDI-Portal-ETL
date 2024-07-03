@@ -54,11 +54,10 @@
 - page: '/MCI'
   title: "MCI"
   content:
-    - paragraph: "Introduction"
-    - paragraph: "About MCI"
     - paragraph: "The CCDI Molecular Characterization Initiative (MCI) provides state-of-the-art molecular testing at no cost to newly diagnosed children, adolescents, and young adults (AYAs) with central nervous system (CNS) tumors, soft tissue sarcomas (STS), certain rare (RAR) childhood cancers, and certain neuroblastomas (NBL) being treated at a Children’s Oncology Group (COG)–affiliated hospital. The goal of this initiative is to enhance the understanding of the genetic factors involved in pediatric cancers and to provide timely, clinically relevant findings to doctors and families. This project uses Project:EveryChild (APEC14B1) to enroll participants, collect specimens, and annotate clinical data. The results of genetic testing will be shared with the treating physician and participants or their family, aiding in treatment decisions. This will also determine eligibility for certain planned COG clinical trials."
     - paragraph: "For an overview of this initiative, access the MCI web page on cancer.gov."
-    - paragraph: "Enrollment Metrics"
+    - paragraph: "Enrollment and Participation"
+    - paragraph: "APEC14B1-MCI ENROLLMENT METRICS"
     - paragraph: "The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting."
     - paragraph: "MCI PARTICIPATION"
     - paragraph: "Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, and NBL tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI."
