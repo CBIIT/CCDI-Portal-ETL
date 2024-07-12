@@ -8,7 +8,7 @@
     - paragraph: "Significant updates made in latest C3DC release: The new release represents the harmonization of all clinical data sets in the CCDI Data Ecosystem."
     - paragraph: "Childhood Cancer Clinical Data Commons (C3DC): A database that houses childhood cancer demographics and phenotypic clinical data."
     - paragraph: "Childhood Cancer Data Catalog(CCDC): A searchable inventory of childhood cancer resources."
-    - paragraph: "Molecular Characterization Initiative for Childhood Cancers(MCI): A program providing molecular testing for children, adolescents, and young adults with certain cancer types."
+    - paragraph: "Molecular Characterization Initiative(MCI): A program providing molecular testing for children, adolescents, and young adults with certain cancer types."
     - paragraph: "National Childhood Cancer Registry Explorer(NCCR Explorer): A tool to browse demographic, incidence, and survival statistics for cancers in children, adolescent, and young adults."
     - paragraph: "Clinical Interpretation of Variants in Cancer(CIViC): An open access, open source, community-driven web resource for clinical interpretations of mutations related to cancer."
     - paragraph: "Molecular Targets Platform(MTP): An instance of the Open Targets Platform with a focus on childhood cancer data that allows users to browse and identify associations between molecular targets, diseases, and drugs."
