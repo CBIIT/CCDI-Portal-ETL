@@ -8,12 +8,18 @@
     - paragraph: "Significant updates made in latest C3DC release: The new release represents the harmonization of all clinical data sets in the CCDI Data Ecosystem."
     - paragraph: "Childhood Cancer Clinical Data Commons (C3DC): A database that houses childhood cancer demographics and phenotypic clinical data."
     - paragraph: "Childhood Cancer Data Catalog(CCDC): A searchable inventory of childhood cancer resources."
-    - paragraph: "Molecular Characterization Initiative for Childhood Cancers(MCI): A program providing molecular testing for children, adolescents, and young adults with certain cancer types."
+    - paragraph: "Molecular Characterization Initiative(MCI): A program providing molecular testing for children, adolescents, and young adults with certain cancer types."
     - paragraph: "National Childhood Cancer Registry Explorer(NCCR Explorer): A tool to browse demographic, incidence, and survival statistics for cancers in children, adolescent, and young adults."
     - paragraph: "Clinical Interpretation of Variants in Cancer(CIViC): An open access, open source, community-driven web resource for clinical interpretations of mutations related to cancer."
     - paragraph: "Molecular Targets Platform(MTP): An instance of the Open Targets Platform with a focus on childhood cancer data that allows users to browse and identify associations between molecular targets, diseases, and drugs."
     - paragraph: "Cancer Genomics Cloud(CGC): A cloud-based platform to access and analyze cancer research data."
     - paragraph: "Database of Genotypes and Phenotypes(dbGaP): A database to store and distribute data and results from studies examining the interaction of genotypes and phenotypes."
+- page: '/explore'
+  title: "Explore"
+  content:
+    - paragraph: "Note: Users of any data provided by CCDI, whether open, registered, or controlled access, agree not to attempt to reidentify any individual participant in any study represented within the CCDI, for any purpose."
+    - paragraph: "Note: Some participants may be enrolled in more than one study; therefore, the cumulative counts might include duplicate representation of those participants."
+    - paragraph: "Note: The CCDI Hub Explore Dashboard is a participant-based file inventory and provides links to diverse data sets. The data may have been assessed for quality based on technology-relevant controls but have not been independently validated. The data are made available to accelerate identification of targets and facilitate discoveries related to understanding cancer biology"
 - page: '/about'
   title: "About"
   content:
@@ -54,11 +60,10 @@
 - page: '/MCI'
   title: "MCI"
   content:
-    - paragraph: "Introduction"
-    - paragraph: "About MCI"
     - paragraph: "The CCDI Molecular Characterization Initiative (MCI) provides state-of-the-art molecular testing at no cost to newly diagnosed children, adolescents, and young adults (AYAs) with central nervous system (CNS) tumors, soft tissue sarcomas (STS), certain rare (RAR) childhood cancers, and certain neuroblastomas (NBL) being treated at a Children’s Oncology Group (COG)–affiliated hospital. The goal of this initiative is to enhance the understanding of the genetic factors involved in pediatric cancers and to provide timely, clinically relevant findings to doctors and families. This project uses Project:EveryChild (APEC14B1) to enroll participants, collect specimens, and annotate clinical data. The results of genetic testing will be shared with the treating physician and participants or their family, aiding in treatment decisions. This will also determine eligibility for certain planned COG clinical trials."
     - paragraph: "For an overview of this initiative, access the MCI web page on cancer.gov."
-    - paragraph: "Enrollment Metrics"
+    - paragraph: "Enrollment and Participation"
+    - paragraph: "APEC14B1-MCI ENROLLMENT METRICS"
     - paragraph: "The MCI enrollment metrics are based on counts of patients enrolled with MCI through Project:EveryChild (APEC14B1) and are based on monthly COG reporting."
     - paragraph: "MCI PARTICIPATION"
     - paragraph: "Patients are required to enroll in APEC14B1 before participating in MCI, and those eligible to participate need to enroll in MCI and consent to molecular characterization. Currently, only patients with newly diagnosed CNS, STS, RAR, and NBL tumors will be eligible to participate. Patients enrolling in APEC14B1 with secondary or second malignancy are not eligible to participate in MCI."
@@ -94,7 +99,6 @@
     - paragraph: "MCI Results Contacts Technical questions about specimen submission should be directed to the Biopathology Center by email at BPCBank@nationwidechildrens.org. Technical questions about accessing results or result availability should be directed to IGM by email at IGMMCI@nationwidechildrens.org. Questions about results unrelated to a COG treatment trial should go to the following as appropriate: central nervous system group: MCICNS@childrensoncologygroup.org soft tissue sarcoma group: MCISTS@childrensoncologygroup.org rare tumor group: MCIRAR@childrensoncologygroup.org Neuroblastoma group: MCINBL@childrensoncologygroup.org MCI Data Contact For questions related to MCI data or accessing the CCDI Data Ecosystem, contact ncichildhoodcancerdatainitiative@mail.nih.gov. Project:EveryChild Contact For questions related to Project:EveryChild (APEC14B1), contact projecteverychild@childrensoncologygroup.org."
 - page: '/data_federation_resource'
   content:
-    - paragraph: "Introduction"
     - paragraph: "Data federation enables users to pull data from across various resources as if they were accessing a single virtual database, rather than consolidating all data into a single centralized repository. The data remain at the original source but become searchable and findable to the research community through a standard application programming interface (API). This allows the creation of a virtual cohort and facilitates large-scale analytic research by making deidentified participant-level data (non-PHI/PII) findable across the sources."
     - paragraph: "The Childhood Cancer Data Initiative (CCDI) is piloting data federation with Kids First Data Resource Center, the Pediatric Cancer Data Commons, St. Jude Cloud, and the Treehouse Childhood Cancer Data Initiative. These resources provide information about genomic, clinical, imaging, and biospecimen data in these data sets. This list will expand as more organizations implement CCDI’s data federation API."
     - paragraph: "Data Access"
