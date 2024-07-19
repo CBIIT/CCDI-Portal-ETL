@@ -3,9 +3,9 @@
   content:
     - paragraph: "Discover CCDI Resources"
     - paragraph: "EXPLORE THE CCDI HUB, ITS APPLICATIONS, AND ANALYTIC TOOLS BY SELECTING AN AVAILABLE RESOURCE"
+    - paragraph: "Childhood Cancer Data Initiative (CCDI) Data Federation Resource: API that facilitates data search from various resources eliminating the need for data consolidation into a single centralized repository."
     - paragraph: "Latest Hub release includes new studies and enhanced functionality: CCDI Hub adds two new studies, updated datasets, and enhanced features in June release"
     - paragraph: "Resource updates featured in this month’s CCDC release: Six existing resources in the CCDC have been updated"
-    - paragraph: "Significant updates made in latest C3DC release: The new release represents the harmonization of all clinical data sets in the CCDI Data Ecosystem."
     - paragraph: "Childhood Cancer Clinical Data Commons (C3DC): A database that houses childhood cancer demographics and phenotypic clinical data."
     - paragraph: "Childhood Cancer Data Catalog(CCDC): A searchable inventory of childhood cancer resources."
     - paragraph: "Molecular Characterization Initiative(MCI): A program providing molecular testing for children, adolescents, and young adults with certain cancer types."
@@ -30,6 +30,7 @@
 - page: '/news'
   title: "News"
   content:
+    - paragraph: "Childhood Cancer Data Initiative (CCDI) Data Federation Resource, JULY 10, 2024, The API provides an open-access subset of metadata including data set location. Data files are accessible according to the policies at each organization. Where possible, metadata have been harmonized to Common Data Elements provided by the Cancer Data Standards Registry and Repository (https://cadsr.cancer.gov). Current data federation members are the Kids First Data Resource Center, Pediatric Cancer Data Commons, St. Jude Cloud, and Treehouse Childhood Cancer Data Initiative."
     - paragraph: "Latest Hub release includes new studies and enhanced functionality, JUNE 27, 2024, The CCDI Hub updated seven data sets and added two new: Pediatric AYA Cancer Touchstone (phs002431.v1) and Pediatric Tumor Profiling (phs002677.v1) data sets. These encompass 1,600 participants and 2,700 samples, totaling 20,760 new files. The MCI page now features updated visualizations and a streamlined navigation pane. The Files tab on the Explore Dashboard now includes Library Selection, Source, and Strategy. User documentation is available, providing instructions for accessing controlled data and navigating the Explore Dashboard."
     - paragraph: "Resource updates featured in this month’s CCDC release, JUNE 12, 2024, The Childhood Cancer Data Catalog (CCDC) now includes 317 data sets from 60 resources. This release adds four new data sets to cBioPortal for Cancer Genomics, Childhood Cancer Data Initiative, and Gene Expression Omnibus. Also, data sets in the CancerModels.org and Patient-Derived Xenograft and Advanced In Vivo Models resources have updated counts, and the Childhood Cancer and Leukemia International Consortium data set is now part of the World Health Organization–International Agency for Research on Cancer resource."
     - paragraph: "Two new resources and other updates featured in latest CCDC release, MAY 17, 2024, The CCDC now includes the South African National Cancer Registry (NCR) and the World Health Organization-International Agency for Research on Cancer (WHO-IARC) resources. The NCR has played a critical role in cancer prevention and control policy in South Africa and contains demographic, clinical, and reporting source data. The WHO-IARC resource includes epidemiological data. In addition to these resources, 13 new data sets were added, and several other updates were made."
