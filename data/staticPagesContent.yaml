@@ -13,6 +13,7 @@
     - paragraph: "Data Federation Resource: The CCDI Data Federation Resource provides harmonized metadata accessible via an API that facilitates the search across multiple resources."
     - paragraph: "Clinical Interpretation of Variants in Cancer(CIViC): An open access, open source, community-driven web resource for clinical interpretations of mutations related to cancer."
     - paragraph: "Molecular Targets Platform(MTP): An instance of the Open Targets Platform with a focus on childhood cancer data that allows users to browse and identify associations between molecular targets, diseases, and drugs."
+    - paragraph: "CCDI Participant Index: CCDI’s Participant Index (CPI) API connects participant IDs across studies, empowering researchers to explore complex questions and advance childhood cancer research."
     - paragraph: "Cancer Genomics Cloud(CGC): A cloud-based platform to access and analyze cancer research data."
     - paragraph: "Database of Genotypes and Phenotypes(dbGaP): A database to store and distribute data and results from studies examining the interaction of genotypes and phenotypes."
 - page: '/explore'
