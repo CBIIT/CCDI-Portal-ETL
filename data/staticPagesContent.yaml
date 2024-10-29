@@ -16,6 +16,7 @@
     - paragraph: "CCDI Participant Index: CCDI’s Participant Index (CPI) API maps participant IDs across studies, empowering researchers to explore complex questions and advance pediatric cancer research."
     - paragraph: "Cancer Genomics Cloud(CGC): A cloud-based platform to access and analyze cancer research data."
     - paragraph: "Database of Genotypes and Phenotypes(dbGaP): A database to store and distribute data and results from studies examining the interaction of genotypes and phenotypes."
+    - paragraph: "National Childhood Cancer Registry (NCCR) Data Platform: The NCCR Data Platform is a cloud-based repository offering comprehensive data on cancer patients aged 0-39."
 - page: '/explore'
   title: "Explore"
   content:
