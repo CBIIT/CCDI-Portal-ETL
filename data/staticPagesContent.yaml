@@ -130,10 +130,10 @@
     - paragraph: "To access participating nodes API, please click here."
     - paragraph: "The API does not deliver files. Rather, it provides an open-access subset of the metadata (e.g., demographics) that match a user’s search criteria and provides the location of the complete data set. The data are accessible according to the policies at each contributing resource."
     - paragraph: "Additional Available Resources"
-    - paragraph: "The CCDI Data Federation Resource offers a suite of resources including the OpenAPI Specification, Data Federation Resource Wiki, and comprehensive documentation on the CCDI Data Federation Resource GitHub Repository. You may also get assistance or report an issue."
+    - paragraph: "The CCDI Data Federation Resource offers a suite of resources including the OpenAPI Specification, Data Federation Resource Wiki, and Github repository to support participating nodes development. You may also get assistance or report an issue. Read more about CCDI Federation API in the blog."
     - paragraph: "Contribute to CCDI Data Federation Resource"
     - paragraph: "We invite the community to join us in empowering research through CCDI data federation. Organizations that implement CCDI’s data federation API harmonize data according to CCDI standards to ensure data are searchable."
-    - paragraph: "Details can be found on the CCDI Data Federation Resource Wiki page."
+    - paragraph: "If interested in becoming a member of the CCDI Data Federation Resource, please send an email to ncichildhoodcancerdatainitiative@mail.nih.gov."
     - paragraph: "Contact"
     - paragraph: "Email us with questions related to CCDI federated data or accessing the CCDI Data Ecosystem."
 - page: '/ccdi-participant-index'
