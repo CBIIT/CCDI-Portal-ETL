@@ -3,9 +3,9 @@
   content:
     - paragraph: "Discover CCDI Resources"
     - paragraph: "EXPLORE THE CCDI HUB, ITS APPLICATIONS, AND ANALYTIC TOOLS BY SELECTING AN AVAILABLE RESOURCE"
+    - paragraph: "Just released: CCDI Hub version 2.5.0: New Data Sets, Enhanced Search, CGC Export, Publications Page, & MCI Update"
     - paragraph: "Just released: CCDI Hub version 2.4.0: Substantial data updates and new and enhanced features mark CCDI Hub release"
     - paragraph: "Childhood Cancer Data Initiative (CCDI) Participant Index: CPI API: Empowering Pediatric Cancer Research with Mapped Participant IDs"
-    - paragraph: "Childhood Cancer Data Initiative (CCDI) Data Federation Resource: API that facilitates data search from various resources eliminating the need for data consolidation into a single centralized repository."
     - paragraph: "Childhood Cancer Clinical Data Commons (C3DC): A database that houses childhood cancer demographics and phenotypic clinical data."
     - paragraph: "Childhood Cancer Data Catalog(CCDC): A searchable inventory of childhood cancer resources."
     - paragraph: "Molecular Characterization Initiative(MCI): A program providing molecular testing for children, adolescents, and young adults with certain cancer types."
@@ -60,6 +60,7 @@
 - page: '/news'
   title: "News"
   content:
+    - paragraph: "Just released: CCDI Hub version 2.5.0, December 6, 2024, The latest update to the CCDI Hub includes six new data sets. Enhancements to the Explore Dashboard improve filtered search functionality, notably with a text search capability for the Diagnosis and Diagnosis Anatomic Site facets. A new Export button allows direct export from the Cart to the Velsera Cancer Genomics Cloud platform for further analysis. This release also introduces a new CCDI-Supported Publications page. Updates to existing pages include enhancements to the About Page, updated Hub User Guide, NCCR Data Platform links from the homepage, and the updated MCI enrollments report for November."
     - paragraph: "Just released: CCDI Hub version 2.4.0, October 10, 2024, The latest update to the CCDI Hub includes three new data sets and updates to 13 others. Several updates were also made to the Explore Dashboard to improve filtered search functionality, with further revisions made to the dashboard’s widgets, study table, and sample and diagnosis tables. Additionally, the site now has a new page about the CCDI Participant Index."
     - paragraph: "Childhood Cancer Data Initiative (CCDI) Participant Index, October 10, 2024, The Childhood Cancer Data Initiative (CCDI) announces the release of Version 1.0 of the Participant Index (CPI) API. The CPI maps participant IDs from different studies/research institutions, enabling researchers to explore complex questions, gain deeper insights into diseases, develop innovative therapies, and enhance existing treatments. With 32 domains and over 418,000 participant IDs, the CPI API is a significant step forward in pediatric cancer research. More information can be found at https://ccdi.cancer.gov/ccdi-participant-index."
     - paragraph: "CCDC gets 5 new data sets and updates 8 resources, September 25, 2025, Five new data sets are now available in the CCDC. Among them are the CCDI National Childhood Cancer Registry Data Platform data set and Correlative Studies for Protocol #14-C-0059: T Cells Expressing an Anti-GD2 Chimeric Antigen Receptor in Patients with GD2+ Solid Tumors, a Collaboration with CIMAC-CIDC. Eight existing resources were updated with new counts, clinical trial lists, and changes to repository links, resource URLs, and reference links. No new features were added in this release."
