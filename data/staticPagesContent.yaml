@@ -242,7 +242,7 @@
       - paragraph: "AttentionAML AttentionAML is a novel deep learning framework that uses an attention-based multilayer perceptron (MLP) model to accurately identify acute myeloid leukemia (AML) subtypes from transcriptomic data alone. A user-friendly Python package is available to help researchers implement the model. It enables precise classification and clustering of AML subtypes, and facilitates improved risk stratification and personalized treatment planning. Link: https://github.com/wan-mlab/AttentionAML Contact: swan@unmc.edu"
       - paragraph: "EwS-Pacbio The EwS-Pacbio repository provides tools for analyzing long-read targeted sequencing FASTQ files to investigate microsatellites and germline variants associated with Ewing sarcoma (EwS) susceptibility. Leveraging PacBio sequencing technology, the resource enables high-resolution investigation of genetic risk factors, including variant analysis and microsatellite profiling. It includes workflows and visualizations fused in associated publications, supporting deeper insights into EwS-related genetic mechanisms. Link 1: Code for 6p25.1 microsatellite and germline variant analysis is available at: https://github.com/machiela-lab/EwS-Pacbio Link 2: Code for gene expression analysis is available at: https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1 Contact: mitchell.machiela@nih.gov"
 - page: '/ccdi-events-announcements'
-  Title: "CCDI Events Announcements"
+  title: "CCDI Events Announcements"
   content:
       - paragraph: "The CCDI Events Announcements page brings together news announcements and details on past events, webinars, and workshops."
       - paragraph: "Past Events, Webinars, and Workshops"
