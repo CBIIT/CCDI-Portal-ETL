@@ -1,3 +1,4 @@
 tmp/
 config/es_indices.yml
 config/es_loader.yml
+**/*/__pycache__/*
