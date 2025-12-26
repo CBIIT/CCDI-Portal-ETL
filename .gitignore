@@ -2,3 +2,11 @@ tmp/
 config/es_indices.yml
 config/es_loader.yml
 **/*/__pycache__/*
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+.coverage.*
+coverage.xml
+*.cover
