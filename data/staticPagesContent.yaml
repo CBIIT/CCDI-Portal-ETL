@@ -241,3 +241,23 @@
       - paragraph: "RanBALL RanBALL is an ensemble machine learning model that uses random projection and support vector machines to accurately and cost-effectively identify B-cell acute lymphoblastic leukemia (B-ALL) subtypes using only transcriptomic profiling data. This tool improved clinical diagnosis, risk stratification, and personalized treatment for B-ALL patients through effective classification and visualization. Link: https://github.com/wan-mlab/RanBALL Contact: lli@unmc.edu"
       - paragraph: "AttentionAML AttentionAML is a novel deep learning framework that uses an attention-based multilayer perceptron (MLP) model to accurately identify acute myeloid leukemia (AML) subtypes from transcriptomic data alone. A user-friendly Python package is available to help researchers implement the model. It enables precise classification and clustering of AML subtypes, and facilitates improved risk stratification and personalized treatment planning. Link: https://github.com/wan-mlab/AttentionAML Contact: swan@unmc.edu"
       - paragraph: "EwS-Pacbio The EwS-Pacbio repository provides tools for analyzing long-read targeted sequencing FASTQ files to investigate microsatellites and germline variants associated with Ewing sarcoma (EwS) susceptibility. Leveraging PacBio sequencing technology, the resource enables high-resolution investigation of genetic risk factors, including variant analysis and microsatellite profiling. It includes workflows and visualizations fused in associated publications, supporting deeper insights into EwS-related genetic mechanisms. Link 1: Code for 6p25.1 microsatellite and germline variant analysis is available at: https://github.com/machiela-lab/EwS-Pacbio Link 2: Code for gene expression analysis is available at: https://github.com/calvin-s-rodrigues/EwS_6p25.1_RREB1 Contact: mitchell.machiela@nih.gov"
+- page: '/ccdi-events-announcements'
+  title: "CCDI Events Announcements"
+  content:
+      - paragraph: "The CCDI Events Announcements page brings together news announcements and details on past events, webinars, and workshops."
+      - paragraph: "Past Events, Webinars, and Workshops"
+      - paragraph: "Navigating CCDI Hub's Explore Dashboard and Data Access 11/13/23"
+      - paragraph: "Using NCCR*Explorer and NCCR Data in SEER*Stat 10/24/23"
+      - paragraph: "The First Childhood Cancer Data Initiative Community Forum 9/11/23"
+      - paragraph: "Using the Childhood Cancer Data Initiative's Molecular Targets Platform 8/21/23"
+      - paragraph: "Using the CCDI Hub and Childhood Cancer Data Catalog 6/29/23"
+      - paragraph: "Attend the 2023 NCI Childhood Cancer Data Initiative Annual Symposium 3/24/23"
+      - paragraph: "CCDI Workshop: Advancing a National Initiative for Rare Cancers in Children, Adolescents, and Young Adults 11/18/22"
+      - paragraph: "CCDI Workshop: The Importance of Electronic Health Record (EHR) Data in Clinical Care and Research 11/2/22"
+      - paragraph: "New Optimized Workflow Offers Comprehensive Characterization of Childhood Cancers 6/9/22"
+      - paragraph: "Special Lecture Series: The NCI Childhood Cancer Data Initiative (CCDI)—Learning from Every Childhood Cancer Patient 5/23/22"
+      - paragraph: "NCI Childhood Cancer Data Initiative Annual Symposium 2021 11/9/21"
+      - paragraph: "Childhood Cancer Data Initiative Webinar: Current Programs and Progress 9/13/21"
+      - paragraph: "Watch the New Childhood Cancer Data Initiative Vision Video 10/15/20"
+      - paragraph: "If you have questions about a specific event or would like more information, please contact NCIChildhoodCancerDataInitiative@mail.nih.gov."
+    
