@@ -260,4 +260,20 @@
       - paragraph: "Childhood Cancer Data Initiative Webinar: Current Programs and Progress 9/13/21"
       - paragraph: "Watch the New Childhood Cancer Data Initiative Vision Video 10/15/20"
       - paragraph: "If you have questions about a specific event or would like more information, please contact NCIChildhoodCancerDataInitiative@mail.nih.gov."
-    
+- page: '/pediatric-adolescent-and-young-adult-rare-cancer-study'
+  title: "Pediatric, Adolescent, and Young Adult Rare Cancer Study"
+  content:
+    - paragraph: The Childhood Cancer Data Initiative (CCDI) Pediatric, Adolescent, and Young Adult Rare Cancer Study is a longitudinal, observational study and registry for very rare pediatric, adolescent, and young adult (AYA) solid tumors. Across the duration of the study, the team will collect clinical, pathology, imaging data, and patient reported outcomes from children, adolescents, and young adults aged 39 or younger with very rare childhood cancers and who are within one year of diagnosis.
+    - paragraph: State-of-the-art clinical molecular characterization of tumor and germline samples will also be performed through the CCDI Molecular Characterization Initiative to potentially help inform treatment approaches. The de-identified data will be part of the CCDI Data Ecosystem.
+    - paragraph: For an overview of this program, access the study’s web page on cancer.gov.
+    - paragraph: Accessing Pediatric and AYA Rare Cancer Study Data
+    - paragraph: HOW TO ACCESS STUDY DATA
+    - paragraph: How can Pediatric and AYA Rare Cancer Study data be accessed through the CCDI Data Ecosystem?
+    - paragraph: Study data can be accessed through the CCDI Data Ecosystem, which includes molecular characterization data, de-identified clinical reports, patient-reported outcomes, whole slide images of hematoxylin and eosin stained (H&E) tissue, along with additional data on demographics, diagnosis, treatment, and follow-up.
+    - paragraph: CCDI studies are summarized and indexed in the CCDI Hub Explore Dashboard, where you can export row-level metadata for participants, samples, or files. You can search by the study name or by database of Genotypes and Phenotypes accession number (number forthcoming). This user guide provides information on how to find, request, access, download, and analyze controlled-access data.
+    - paragraph: GERMLINE FINDINGS
+    - paragraph: What steps should be taken if germline findings are detected?
+    - paragraph: Clinically actionable findings include disorders listed in the American College of Medical Genetics and Genomics recommendations for the return of secondary findings. The participant’s physician should coordinate a referral for the participant and their family to do local genetic counseling. In this setting, familial cascade testing for the observed germline variant may be offered to the family where appropriate. Such testing typically takes the form of targeted Sanger or microarray analysis, performed in concert with pre and post-test genetic counseling on the significance of the genetic variant. Familial testing may be performed by the institutional molecular laboratory (if those services are available locally) or through typical send-out testing channels familiar to the clinician and counselor.
+    - title: CONTACT INFORMATION
+    - paragraph: Who should I contact with questions about CCDI Pediatric and AYA Rare Cancer Study results and data?
+    - paragraph: For questions related to study data or accessing the CCDI Data Ecosystem, contact NCIChildhoodCancerDataInitiative@mail.nih.gov.
